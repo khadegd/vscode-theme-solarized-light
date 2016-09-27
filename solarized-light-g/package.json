@@ -1,0 +1,22 @@
+{
+    "name": "solarized-light-g",
+    "displayName": "solarized-light-g",
+    "description": "Meh.",
+    "version": "0.0.1",
+    "publisher": "moraya-re",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "solarized-light-g",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized-light.tmTheme"
+            }
+        ]
+    }
+}
