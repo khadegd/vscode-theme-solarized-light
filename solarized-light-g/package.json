@@ -13,7 +13,8 @@
     "contributes": {
         "themes": [
             {
-                "label": "solarized-light-g",
+                "id": "solarized-light-g",
+                "label": "Solarized Light G",
                 "uiTheme": "vs",
                 "path": "./themes/Solarized-light.tmTheme"
             }
